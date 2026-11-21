@@ -1,0 +1,6 @@
+pandas
+numpy
+mlxtend>=0.23.4,<0.25
+matplotlib
+seaborn
+jupyterlab

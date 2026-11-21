@@ -1,0 +1,26 @@
+basket_contains,associated_items,support,confidence,lift
+"frozen vegetables, soup","milk, mineral water",0.00307,0.38333,7.98718
+"milk, mineral water","frozen vegetables, soup",0.00307,0.06389,7.98718
+"frozen vegetables, olive oil","milk, mineral water",0.00333,0.29412,6.12827
+"milk, mineral water","frozen vegetables, olive oil",0.00333,0.06944,6.12827
+"mineral water, whole wheat pasta",olive oil,0.00387,0.40278,6.11586
+olive oil,"mineral water, whole wheat pasta",0.00387,0.0587,6.11586
+"chocolate, frozen vegetables","mineral water, shrimp",0.0032,0.13953,5.91328
+"mineral water, shrimp","chocolate, frozen vegetables",0.0032,0.13559,5.91328
+"frozen vegetables, mineral water","milk, soup",0.00307,0.08582,5.64686
+"milk, soup","frozen vegetables, mineral water",0.00307,0.20175,5.64686
+"mineral water, soup","frozen vegetables, milk",0.00307,0.13295,5.63414
+"frozen vegetables, milk","mineral water, soup",0.00307,0.12994,5.63414
+"ground beef, spaghetti",tomato sauce,0.00307,0.07823,5.53597
+tomato sauce,"ground beef, spaghetti",0.00307,0.21698,5.53597
+soup,"frozen vegetables, milk, mineral water",0.00307,0.06069,5.48441
+"frozen vegetables, milk, mineral water",soup,0.00307,0.27711,5.48441
+"milk, olive oil","frozen vegetables, mineral water",0.00333,0.19531,5.46656
+"frozen vegetables, mineral water","milk, olive oil",0.00333,0.09328,5.46656
+honey,fromage blanc,0.00333,0.07022,5.16427
+fromage blanc,honey,0.00333,0.2451,5.16427
+"frozen vegetables, milk","mineral water, olive oil",0.00333,0.14124,5.11818
+"mineral water, olive oil","frozen vegetables, milk",0.00333,0.12077,5.11818
+"frozen vegetables, ground beef","milk, spaghetti",0.00307,0.1811,5.10695
+"milk, spaghetti","frozen vegetables, ground beef",0.00307,0.08647,5.10695
+"mineral water, shrimp","frozen vegetables, spaghetti",0.00333,0.14124,5.0692
